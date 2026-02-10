@@ -1,4 +1,4 @@
-# Sales-Analysis-and-Forcasting-
+# Sales-And-Revenue-Analysis-
 The Sales & Revenue Analytics Dashboard is an end-to-end data analysis project built using Power BI, designed to provide actionable insights into business performance. The dashboard focuses on revenue trends, order analysis, product performance, regional sales distribution, and return behavior, enabling data-driven decision-making for stakeholders.
 
 This project simulates a real-world business intelligence scenario where raw sales data is transformed into meaningful visual insights through data modeling, DAX calculations, and interactive reporting.
