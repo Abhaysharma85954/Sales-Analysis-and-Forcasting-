@@ -53,5 +53,6 @@ This dashboard demonstrates practical skills in:
 ◦KPI design and storytelling with data
 ◦Real-world Power BI dashboard development
 
-Sreenshot : https://github.com/Abhaysharma85954/Sales-Analysis-and-Forcasting-/blob/main/Revenue%20Insights.png
+Sreenshot :  
+Dashboard Preview - https://github.com/Abhaysharma85954/Sales-Analysis-and-Forcasting-/blob/main/Revenue%20Insights.png
 
